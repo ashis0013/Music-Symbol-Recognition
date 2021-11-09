@@ -6,7 +6,7 @@ This code is part of research work published in Neural Computing and Application
 If you find it useful, consider citing us:
 
 ```
-@Article{Paul2021,
+@article{Paul2021,
 author={Paul, Ashis
 and Pramanik, Rishav
 and Malakar, Samir
