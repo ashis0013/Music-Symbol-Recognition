@@ -5,7 +5,7 @@
 If you find it useful, consider citing us:
 
 ```
-@article{Paul2021,
+@article{paul2021ensemble,
 author={Paul, Ashis
 and Pramanik, Rishav
 and Malakar, Samir
